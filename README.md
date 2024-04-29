@@ -1,7 +1,7 @@
 # MiXplorer_Skin_WinFluent
 Skin para MixPlorer, AMOLED (Pitch Black) con iconos de Windows 10 y detalles en color azul.
 
-Skin for MixPlorer, AMOLED (Pitch Black) with Windows 10 icons and blue details.
+_Skin for MixPlorer, AMOLED (Pitch Black) with Windows 10 icons and blue details._
 
 ## Instrucciones / _Instructions_:
 1. Descargar el zip desde ["releases"](https://github.com/CrazyBytesVE/MiXplorer_Skin_WinFluent/releases). / _Download the zip from ["releases"](https://github.com/CrazyBytesVE/MiXplorer_Skin_WinFluent/releases)._
