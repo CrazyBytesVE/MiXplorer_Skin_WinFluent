@@ -21,4 +21,5 @@ Cualquier versión de Android, cualquier versión de MiXplorer superior a la 6.2
 # AGRADECIMIENTOS / _THANKS-CREDITS_:
 
 . @marciozomb13 (https://xdaforums.com/t/theme-mixplorer-windows-fluent-design-theme-by-marciozomb13.4191035/). _De aquí proviene el Skin original. / This is where the original Skin comes from._
+
 . A HootanParsa, por crear MiXplorer. / _To HootanParsa, for creating MiXplorer._
